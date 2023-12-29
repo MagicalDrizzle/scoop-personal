@@ -14,9 +14,8 @@
 	},
 	"architecture": {
 		"64bit": {
-			"url": "https://github.com/mazznoer/lolcrab/releases/download/v0.3.1/volcrab-x86_64-pc-windows-msvc.zip",
-			"hash": "2ffa8df0803551845fbe272d8516ede014760de6aaa731a0feac27b932b6c754",
-			"extract_dir": "lolcrab.exe"
+			"url": "https://github.com/mazznoer/lolcrab/releases/download/v0.3.1/lolcrab-x86_64-pc-windows-msvc.zip",
+			"hash": "2ffa8df0803551845fbe272d8516ede014760de6aaa731a0feac27b932b6c754"
 		}
 	},
 	"bin": "lolcrab.exe",
@@ -24,8 +23,7 @@
 	"autoupdate": {
 		"architecture": {
 			"64bit": {
-				"url": "https://github.com/mazznoer/lolcrab/releases/download/v$version/lolcrab-x86_64-pc-windows-msvc.zip",
-				"extract_dir": "lolcrab.exe"
+				"url": "https://github.com/mazznoer/lolcrab/releases/download/v$version/lolcrab-x86_64-pc-windows-msvc.zip"
 			}
 		}
 	}
