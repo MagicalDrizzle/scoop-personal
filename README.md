@@ -12,7 +12,5 @@
   - `ldd-win`
 - [pdu](https://github.com/KSXGitHub/parallel-disk-usage): Highly parallelized, blazing fast directory tree analyzer.
   - `pdu`
-- [Cppcheck](https://cppcheck.sourceforge.io): Static analysis tool for C/C++ code - GUI version.
-  - `cppcheck-gui`
 - [AntiDupl.NET](https://ermig1979.github.io/AntiDupl/english/): A program to search similar and defect pictures on the disk.
   - `antidupl.net-portable`
