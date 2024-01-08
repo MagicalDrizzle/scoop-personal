@@ -14,3 +14,5 @@
   - `pdu`
 - [AntiDupl.NET](https://ermig1979.github.io/AntiDupl/english/): A program to search similar and defect pictures on the disk.
   - `antidupl.net-portable`
+- [yt-dlg](https://github.com/oleksis/youtube-dl-gui): A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+  - `yt-dlg`
