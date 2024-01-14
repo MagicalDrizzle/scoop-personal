@@ -16,3 +16,6 @@
   - `antidupl.net-portable`
 - [yt-dlg](https://github.com/oleksis/youtube-dl-gui): A cross platform front-end GUI of the popular youtube-dl written in wxPython.
   - `yt-dlg`
+- [gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
+  - `gimagereader-master`
+  
