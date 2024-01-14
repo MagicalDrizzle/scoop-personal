@@ -18,4 +18,3 @@
   - `yt-dlg`
 - [gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
   - `gimagereader-master`
-  
