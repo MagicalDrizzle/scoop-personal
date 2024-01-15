@@ -17,4 +17,6 @@
 - [yt-dlg](https://github.com/oleksis/youtube-dl-gui): A cross platform front-end GUI of the popular youtube-dl written in wxPython.
   - `yt-dlg`
 - [gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
-  - `gimagereader_master`
+  - `gimagereader-master`
+- [Touhou Toolkit](https://github.com/thpatch/thtk): Command-line toolkit for extracting, modifying, and repacking the data of the Team Shanghai Alice games.
+  - `thtk-nightly`
