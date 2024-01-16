@@ -20,3 +20,5 @@
   - `gimagereader-master`
 - [Touhou Toolkit](https://github.com/thpatch/thtk): Command-line toolkit for extracting, modifying, and repacking the data of the Team Shanghai Alice games.
   - `thtk-nightly`
+- [Don't Sleep](https://www.softwareok.com/?seite=Microsoft/DontSleep): A small program to prevent system Shutdown, Stand By, Turn Off , Restart, Hibernate.
+  - `dontsleep`
