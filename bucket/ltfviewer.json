@@ -1,6 +1,6 @@
 {
     "version": "5.2",
-    "description": "Read-only text viewer optimized for very large text files. Supports regex-based searching.",
+    "description": "Large Text File Viewer: Read-only text viewer optimized for very large text files. Supports regex-based searching.",
     "homepage": "https://web.archive.org/web/20141121061431/http://swiftgear.com/ltfviewer/features.html",
     "license": "Unknown",
     "url": "https://web.archive.org/web/20140813214512/http://www.swiftgear.com/ltfviewer/LTFViewr.zip",
