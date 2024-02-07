@@ -22,3 +22,5 @@
   - `thtk-nightly`
 - [Don't Sleep](https://www.softwareok.com/?seite=Microsoft/DontSleep): A small program to prevent system Shutdown, Stand By, Turn Off , Restart, Hibernate.
   - `dontsleep`
+- [Large Text File Viewer](https://web.archive.org/web/20141121061431/http://www.swiftgear.com/ltfviewer/features.html): Read-only text viewer optimized for very large text files. Support regex-based searching.
+  - `ltfviewer`
