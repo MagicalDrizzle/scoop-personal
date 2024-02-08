@@ -24,3 +24,5 @@
   - `dontsleep`
 - [Large Text File Viewer](https://web.archive.org/web/20141121061431/http://www.swiftgear.com/ltfviewer/features.html): Read-only text viewer optimized for very large text files. Support regex-based searching.
   - `ltfviewer`
+- [OpenTTD-jgrpp](https://github.com/JGRennison/OpenTTD-patches): JGR's Patchpack applied to OpenTTD.
+  - `openttd-jgrpp`
