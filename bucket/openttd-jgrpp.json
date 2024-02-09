@@ -53,7 +53,9 @@
             "OpenTTD-jgrpp"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/JGRennison/OpenTTD-patches"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
