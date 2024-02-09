@@ -54,7 +54,7 @@
         ]
     ],
     "checkver": {
-        "regex": "(?:v|V)?([\d.]+)"
+        "regex": "(?:v|V)?([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
