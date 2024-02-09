@@ -54,7 +54,7 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/JGRennison/OpenTTD-patches"
+        "regex": "(?:v|V)?([\d.]+)"
     },
     "autoupdate": {
         "architecture": {
