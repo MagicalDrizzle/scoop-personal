@@ -28,3 +28,5 @@
   - `openttd-jgrpp`
 - [ZaDark](https://zadark.com): Open-source dark mode for Zalo.
   - `zadark`
+- [7-Benchmark](https://www.7-cpu.com/utils.html): LZMA 7-Zip Benchmark suite.
+  - `7-benchmark`
