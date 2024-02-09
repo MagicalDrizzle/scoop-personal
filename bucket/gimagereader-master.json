@@ -1,16 +1,16 @@
 {
-    "version": "master",
+    "version": "3.4.2",
     "description": "A Gtk/Qt front-end to tesseract-ocr.",
     "homepage": "https://github.com/manisandro/gImageReader",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/manisandro/gImageReader/releases/download/master/gImageReader_latest_qt5_x86_64.exe#/dl.7z",
-            "hash": "6146ca4b1a1a8180d1b650468a5e78ff5ce4b99f3b3a30b8689a90f9b4db451b"
+            "url": "https://github.com/manisandro/gImageReader/releases/download/v3.4.2/gImageReader_3.4.2_qt5_x86_64_portable.zip",
+            "hash": "af6c5680a6bbb1c8cfbacdd043ffeca73c805fbd2e6d3a9fe52b5224dd11a2b5"
         },
         "32bit": {
-            "url": "https://github.com/manisandro/gImageReader/releases/download/master/gImageReader_latest_qt5_i686.exe#/dl.7z",
-            "hash": "47933291028a8e308ad2ed03ea8bc19a727763fdc7448a983d9cca4a26dd3276"
+            "url": "https://github.com/manisandro/gImageReader/releases/download/v3.4.2/gImageReader_3.4.2_qt5_i686_portable.zip",
+            "hash": "18f3aae6c7f1d51d77afb2400a5f97b1c7364ad45b23b5936cfcc3470df25280"
         }
     },
     "bin": [
@@ -29,15 +29,15 @@
         "tesseract-languages": "tesseract-languages"
     },
     "checkver": {
-        "regex": "\/releases\/tag\/(?:v|V)?([\\w.]+)"
+        "regex": "/releases/tag/(?:v|V)?([\\w.]+)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/manisandro/gImageReader/releases/download/v$version/gImageReader_version_qt5_x86_64.exe#/dl.7z"
+                "url": "https://github.com/manisandro/gImageReader/releases/download/v$version/gImageReader_$version_qt5_x86_64_portable.zip"
             },
             "32bit": {
-                "url": "https://github.com/manisandro/gImageReader/releases/download/v$version/gImageReader_version_qt5_i686.exe#/dl.7z"
+                "url": "https://github.com/manisandro/gImageReader/releases/download/v$version/gImageReader_$version_qt5_i686_portable.zip"
             }
         }
     }
