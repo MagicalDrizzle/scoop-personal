@@ -17,7 +17,7 @@
 - [yt-dlg](https://github.com/oleksis/youtube-dl-gui): A cross platform front-end GUI of the popular youtube-dl written in wxPython.
   - `yt-dlg`
 - [gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
-  - `gimagereader-master`
+  - `gimagereader`
 - [Touhou Toolkit](https://github.com/thpatch/thtk): Command-line toolkit for extracting, modifying, and repacking the data of the Team Shanghai Alice games.
   - `thtk-nightly`
 - [Don't Sleep](https://www.softwareok.com/?seite=Microsoft/DontSleep): A small program to prevent system Shutdown, Stand By, Turn Off , Restart, Hibernate.
@@ -26,3 +26,5 @@
   - `ltfviewer`
 - [OpenTTD-jgrpp](https://github.com/JGRennison/OpenTTD-patches): JGR's Patchpack applied to OpenTTD.
   - `openttd-jgrpp`
+- [ZaDark](https://zadark.com): Open-source dark mode for Zalo.
+  - `zadark`
