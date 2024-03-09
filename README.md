@@ -8,6 +8,8 @@
   - `oggdec2`
 - [vorbis-tools](https://gitlab.xiph.org/xiph/vorbis-tools): Command-line tools for creating and playing Ogg Vorbis files. Build by [Chocobo1](https://github.com/Chocobo1/vorbis-tools_win32-build).
   - `vorbis-tools-chocobo1`
+- [opus-tools](https://gitlab.xiph.org/xiph/opus-tools): Command-line tools for creating and playing Opus files. Build by [Chocobo1](https://github.com/Chocobo1/opus-tools_win32-build).
+  - `opus-tools-chocobo1`
 - [ldd-win](https://github.com/Ex-Origin/ldd-win): A similar Linux ldd command for EXE files.
   - `ldd-win`
 - [pdu](https://github.com/KSXGitHub/parallel-disk-usage): Highly parallelized, blazing fast directory tree analyzer.
