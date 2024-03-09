@@ -3,7 +3,6 @@
     "description": "ldd for Windows - and more!",
     "homepage": "https://github.com/marcoesposito1988/dependency_runner",
     "license": "LGPL-3.0-only",
-    "hash": "",
     "architecture": {
         "64bit": {
             "url": [
