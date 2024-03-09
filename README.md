@@ -32,3 +32,5 @@
   - `zadark`
 - [7-Benchmark](https://www.7-cpu.com/utils.html): LZMA 7-Zip Benchmark suite.
   - `7-benchmark`
+- [dependency_runner](https://github.com/marcoesposito1988/dependency_runner): ldd for Windows - and more!
+  - `dependency-runner`
