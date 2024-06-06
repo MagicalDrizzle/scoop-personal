@@ -36,4 +36,9 @@
   - `dependency-runner`
 - [pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer): Yet Another Pixiv Illust&Novel Viewer.
   - `pixiv-viewer`
- 
+- [pixiv-viewer-electron](https://github.com/asadahimeka/pixiv-viewer): Yet Another Pixiv Illust&Novel Viewer. (Deprecated Electron version)
+  - `pixiv-viewer-electron`
+- [binocle](https://github.com/sharkdp/binocle): a graphical tool to visualize binary data.
+  - `binocle`
+- [diskus](https://github.com/sharkdp/diskus): A minimal, fast alternative to 'du -sh'.
+  - `diskus`
