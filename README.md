@@ -34,3 +34,6 @@
   - `7-benchmark`
 - [dependency_runner](https://github.com/marcoesposito1988/dependency_runner): ldd for Windows - and more!
   - `dependency-runner`
+- [pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer): Yet Another Pixiv Illust&Novel Viewer.
+  - `pixiv-viewer`
+ 
