@@ -42,3 +42,7 @@
   - `binocle`
 - [diskus](https://github.com/sharkdp/diskus): A minimal, fast alternative to 'du -sh'.
   - `diskus`
+- [CrystalDiskInfo Aoi Edition](https://crystalmark.info/en/software/crystaldiskinfo/): A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe.
+  - `crystaldiskinfo-aoi`
+- [CrystalDiskMark Aoi Edition](https://crystalmark.info/en/software/crystaldiskmark/): A simple disk benchmark software.
+  - `crystaldiskmark-aoi`
