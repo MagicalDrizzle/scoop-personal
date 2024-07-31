@@ -46,3 +46,5 @@
   - `crystaldiskinfo-aoi`
 - [CrystalDiskMark Aoi Edition](https://crystalmark.info/en/software/crystaldiskmark/): A simple disk benchmark software.
   - `crystaldiskmark-aoi`
+- [Notepad4](https://github.com/zufuliu/notepad4): Fork of Notepad2, a light-weight Scintilla-based text editor. Featuring syntax highlighting, code folding, auto-completion and API list for about 80 programming languages/documents.
+  - `notepad4`
