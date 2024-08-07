@@ -50,3 +50,11 @@
   - `notepad4`
 - [Re-version](https://web.archive.org/web/20230609000845/http://lunarcast.net/revers.php): Allows modification of the PE Optional Image Header which contains the Operating System Major & Minor version and the SubSystem Major & Minor version.
   - `reversion`
+```
+Usage: Revers32/64.exe <InputFile> <OSMajor> <OSMinor> <SubsysMajor> <SubsysMinor>
+Despite the name, the OS fields doesn't seem to be regarded by the OS, but rather the Subsys ones.
+Setting the OS fields to 10 0 (Win10) and Subsys fields to 5 1 (WinXP) will allow the binary to run on XP.
+Conversely, OS 5 1 (WinXP) and Subsys 10 0 (Win10) will not.
+Lunarcast recommends setting OSMajor and OSMinor to 1 and 0 respectively and more or less ignore them.
+Documentation: https://learn.microsoft.com/en-us/windows/win32/api/winnt/ns-winnt-image_optional_header32
+```
