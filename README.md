@@ -58,3 +58,5 @@ Conversely, OS 5 1 (WinXP) and Subsys 10 0 (Win10) will not.
 Lunarcast recommends setting OSMajor and OSMinor to 1 and 0 respectively and more or less ignore them.
 Documentation: https://learn.microsoft.com/en-us/windows/win32/api/winnt/ns-winnt-image_optional_header32
 ```
+- [cotp](https://github.com/replydev/cotp): Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
+  - `cotp`
