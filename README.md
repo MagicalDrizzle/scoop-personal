@@ -62,3 +62,5 @@ Documentation: https://learn.microsoft.com/en-us/windows/win32/api/winnt/ns-winn
   - `cotp`
 - [WinSetView](https://github.com/LesFerch/WinSetView): Globally Set Explorer Folder Views
   - `winsetview`
+- [Ascgen2](https://ascgendotnet.jmsoftware.co.uk): Convert images into high quality ASCII art - text that accurately represents the original image. The only program of its kind to support variable width fonts and real-time output adjustment and more.
+  - `ascgen2`
