@@ -64,3 +64,5 @@ Documentation: https://learn.microsoft.com/en-us/windows/win32/api/winnt/ns-winn
   - `winsetview`
 - [Ascgen2](https://ascgendotnet.jmsoftware.co.uk): Convert images into high quality ASCII art - text that accurately represents the original image. The only program of its kind to support variable width fonts and real-time output adjustment and more.
   - `ascgen2`
+- [Fan Control](https://getfancontrol.com): A highly customizable fan controlling software for Windows. (dotnet4.8 version)
+  - `fancontrol-net48`
