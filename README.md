@@ -66,3 +66,5 @@ Documentation: https://learn.microsoft.com/en-us/windows/win32/api/winnt/ns-winn
   - `ascgen2`
 - [Fan Control](https://getfancontrol.com): A highly customizable fan controlling software for Windows. (dotnet4.8 version)
   - `fancontrol-net48`
+- [Zhongfly's mpv-git build](https://github.com/zhongfly/mpv-winbuild/): Use Github Action to build mpv for Windows with latest commit
+  - `mpv-git-zh`
