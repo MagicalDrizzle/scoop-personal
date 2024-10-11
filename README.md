@@ -8,6 +8,8 @@
   - `ascgen2`
 - [binocle](https://github.com/sharkdp/binocle): a graphical tool to visualize binary data.
   - `binocle`
+- [BrowseRouter](https//github.com/nref/BrowseRouter): Launch a different browser depending on the URL.
+  - `browserouter`
 - [cotp](https://github.com/replydev/cotp): Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
   - `cotp`
 - [CrystalDiskInfo Aoi Edition](https://crystalmark.info/en/software/crystaldiskinfo/): A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe.
