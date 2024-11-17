@@ -48,6 +48,8 @@
   - `pixiv-viewer`
 - [pixiv-viewer-electron](https://github.com/asadahimeka/pixiv-viewer): Yet Another Pixiv Illust&Novel Viewer. (Deprecated Electron version)
   - `pixiv-viewer-electron`
+- [qBittorrent](https://www.qbittorrent.org): Free and reliable P2P Bittorent client (libtorrent2.0 version).
+  - `qbittorrent-lt20`
 - [Re-version](https://web.archive.org/web/20230609000845/http://lunarcast.net/revers.php): Allows modification of the PE Optional Image Header which contains the Operating System Major & Minor version and the SubSystem Major & Minor version.
   - `reversion`
 ```
