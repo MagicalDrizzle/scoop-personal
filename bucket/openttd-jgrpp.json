@@ -1,38 +1,38 @@
 {
-    "version": "0.63.3",
+    "version": "0.64.0",
     "description": "JGR's Patchpack applied to OpenTTD.",
     "homepage": "https://github.com/JGRennison/OpenTTD-patches",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "32bit": {
             "url": [
-                "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.63.3/openttd-jgrpp-0.63.3-windows-win32.zip",
+                "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.64.0/openttd-jgrpp-0.64.0-windows-win32.zip",
                 "https://cdn.openttd.org/opengfx-releases/7.1/opengfx-7.1-all.zip",
                 "https://cdn.openttd.org/opensfx-releases/1.0.3/opensfx-1.0.3-all.zip",
                 "https://cdn.openttd.org/openmsx-releases/0.4.2/openmsx-0.4.2-all.zip"
             ],
             "hash": [
-                "f496b628f80bf54f40403047eb0799d86dbd0ca051df535ce10972b3d19e16e1",
+                "48896c5f8b2d70b18688bc7aea1dc8e3e9210c63d3d0da92ce96f7222027c66e",
                 "928fcf34efd0719a3560cbab6821d71ce686b6315e8825360fba87a7a94d7846",
                 "e0a218b7dd9438e701503b0f84c25a97c1c11b7c2f025323fb19d6db16ef3759",
                 "5a4277a2e62d87f2952ea5020dc20fb2f6ffafdccf9913fbf35ad45ee30ec762"
             ],
-            "extract_dir": "openttd-jgrpp-0.63.3-windows-win32"
+            "extract_dir": "openttd-jgrpp-0.64.0-windows-win32"
         },
         "64bit": {
             "url": [
-                "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.63.3/openttd-jgrpp-0.63.3-windows-win64.zip",
+                "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.64.0/openttd-jgrpp-0.64.0-windows-win64.zip",
                 "https://cdn.openttd.org/opengfx-releases/7.1/opengfx-7.1-all.zip",
                 "https://cdn.openttd.org/opensfx-releases/1.0.3/opensfx-1.0.3-all.zip",
                 "https://cdn.openttd.org/openmsx-releases/0.4.2/openmsx-0.4.2-all.zip"
             ],
             "hash": [
-                "7d4b4609cb6c0c7cb5f8d4d0245fb2babf3352627ad5def8b43b6034c26cc4f1",
+                "71080f60b97f9628d06c5e90759ab3a2e57c3123b428325bad6af88306544265",
                 "928fcf34efd0719a3560cbab6821d71ce686b6315e8825360fba87a7a94d7846",
                 "e0a218b7dd9438e701503b0f84c25a97c1c11b7c2f025323fb19d6db16ef3759",
                 "5a4277a2e62d87f2952ea5020dc20fb2f6ffafdccf9913fbf35ad45ee30ec762"
             ],
-            "extract_dir": "openttd-jgrpp-0.63.3-windows-win64"
+            "extract_dir": "openttd-jgrpp-0.64.0-windows-win64"
         }
     },
     "pre_install": [
