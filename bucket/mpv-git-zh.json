@@ -1,12 +1,12 @@
 {
-    "version": "2025-02-03-38ad1ed",
+    "version": "2025-02-04-38ad1ed",
     "description": "Use Github Action to build mpv for Windows with latest commit.",
     "homepage": "https://github.com/zhongfly/mpv-winbuild",
     "license": "MIT,LGPL-2.1-or-later,GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zhongfly/mpv-winbuild/releases/download/2025-02-03-38ad1ed/mpv-x86_64-v3-20250203-git-38ad1ed.7z",
-            "hash": "f7f0c66e44f24fffc1b033f52489ab5022c195c8c3e29a45b0b8fe0f8c76b272"
+            "url": "https://github.com/zhongfly/mpv-winbuild/releases/download/2025-02-04-38ad1ed/mpv-x86_64-v3-20250204-git-38ad1ed.7z",
+            "hash": "62cf478f6340669b996c896ebf6666631b8f2fa4c6dcb33c1146172f72ebfc43"
         }
     },
     "suggest": {
