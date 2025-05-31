@@ -1,16 +1,16 @@
 {
-    "version": "25.05r5670",
+    "version": "25.05r5690",
     "description": "Fork of Notepad2, a light-weight Scintilla-based text editor. Featuring syntax highlighting, code folding, auto-completion and API list for about 80 programming languages/documents.",
     "homepage": "https://github.com/zufuliu/notepad4",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zufuliu/notepad4/releases/download/v25.05r5670/Notepad4_en_AVX2_v25.05r5670.zip",
-            "hash": "9fd03c729f21b7c6e3c51067f9517a78108055d7eec2ad75b2c82ca882b054e8"
+            "url": "https://github.com/zufuliu/notepad4/releases/download/v25.05r5690/Notepad4_en_AVX2_v25.05r5690.zip",
+            "hash": "093e69dee4005dfdbe3bcb0508e8a908d69ab3003a22e83134259db87cdd925e"
         },
         "32bit": {
-            "url": "https://github.com/zufuliu/notepad4/releases/download/v25.05r5670/Notepad4_en_Win32_v25.05r5670.zip",
-            "hash": "e9e9711a68f3829f800bebb45d652285de9e09cfd9feceaed351232719e28e2f"
+            "url": "https://github.com/zufuliu/notepad4/releases/download/v25.05r5690/Notepad4_en_Win32_v25.05r5690.zip",
+            "hash": "f8aa8e343c42249d97a1685cf6aefe37bc12c649ed2965a251e6a4f168c7f1d3"
         }
     },
     "bin": "notepad4.exe",
